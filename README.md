@@ -28,7 +28,7 @@
 1. **Strictly Personal Use**:
    - Purchased NeXaHax keys cannot be resold
    - Keys cannot be shared with friends
-   - HWID Reset only available for:
+   - HW-ID Reset only available for:
      - Device reset scenarios
      - New phone purchases
 
@@ -70,15 +70,7 @@ Join our Telegram community:
 - [ARM64-Cheat.apk](https://drive.google.com/file/d/1JhNrY9qLtKYWMgmQQetGNbk6_yTA2kmh/view?usp=drive_link) (Recommended)
 ⚠️ **Note**: The APK is large (~96 MB) due to optimized libraries.
 
-## 🔄 Update Log
-- **v1.3.5 (Current)**:
-  - Fixed aimbot jitter issue
-  - Added new camouflage skins
-  - Improved ESP rendering
-  - Reduced memory usage by 15%
-  - Updated anti-detection routines
-
-- **v1.3.0**:
+- **v1.2.0(Current)**:
   - Initial public release
   - Core functionality implemented
   - Basic skin support added
